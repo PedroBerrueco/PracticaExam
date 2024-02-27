@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaExam</string>
+    <string name="hint_user">Username</string>
+    <string name="btn_user">Access</string>
+</resources>
